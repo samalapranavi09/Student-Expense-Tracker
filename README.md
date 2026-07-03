@@ -18,7 +18,7 @@ This full-stack web application is designed to help college students track their
 ## 📂 Final Folder Structure
 
 ```
-d:\Food expense tracker\
+d:\Student Expense Tracker\
 ├── database/
 │   └── schema.sql              # MySQL Tables and Default Category seeds
 ├── backend/
@@ -91,13 +91,13 @@ d:\Food expense tracker\
 ### Step 2: Backend Configuration & Start
 1. Open a terminal or shell in the `backend/` directory:
    ```bash
-   cd "d:\Food expense tracker\backend"
+   cd "d:\Student Expense Tracker\backend"
    ```
 2. Install the necessary Node packages:
    ```bash
    npm install
    ```
-3. Open the file [backend/.env](file:///d:/Food%20expense%20tracker/backend/.env) and update the database settings to match your local MySQL credentials:
+3. Open the file [backend/.env](file:///d:/Student%20Expense%20Tracker/backend/.env) and update the database settings to match your local MySQL credentials:
    ```env
    PORT=5000
    DB_HOST=localhost
@@ -123,7 +123,7 @@ d:\Food expense tracker\
 ### Step 3: Frontend Configuration & Start
 1. Open a new terminal session in the `frontend/` directory:
    ```bash
-   cd "d:\Food expense tracker\frontend"
+   cd "d:\Student Expense Tracker\frontend"
    ```
 2. Install the frontend dependencies:
    ```bash
