@@ -165,6 +165,4 @@ To score the **maximum grade** during your summer project evaluation panel, exec
 
 ---
 
-**⭐ Best of luck with your summer project submission! ⭐**
-#   S t u d e n t - e x p e n s e - t r a c k e r  
  #   S t u d e n t - e x p e n s e - t r a c k e r    
